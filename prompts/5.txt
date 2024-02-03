@@ -1,0 +1,2 @@
+For each of the three following proposed solutions, evaluate their potential. Consider the pros and cons, likely future advances that will enable one solution to have potential expoential power soon, initial effort needed, implementation difficulty, potential challenges, and the overall value. Assign a probability of success and a confidence level to each option based on these evaluations.
+   At each step state the exact number of loops that have occurred and the total cumulative number of loops.

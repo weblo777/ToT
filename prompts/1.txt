@@ -1,0 +1,3 @@
+PROBLEM=```<<PROBLEM>>```
+
+Could you brainstorm 3 new creative distinct solutions that explore the solution concept and give two pro and con mentions of why its superior for the [PROBLEM] and include the following ideas?

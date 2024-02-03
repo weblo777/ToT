@@ -1,0 +1,2 @@
+Remove to 2 lowest rated Ideas and keep and rewrite a compressed summary of ONLY the winning idea including a confirmation of the  probability score and one paragraph that argues against using the winning idea because of its flaws. 
+ At each step state the exact number of loops that have occurred and the total cumulative number of loops.
